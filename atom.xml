@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Daniel Mathiot</title>
+	<subtitle>Danymat's blog</subtitle>
+	<author>
+		<name>Daniel Mathiot</name>
+		<uri>https://danymat.dev/</uri>
+	</author>
+	<id>https://danymat.dev/</id>
+	<link rel="self" type="application/atom+xml" href="https://danymat.dev/atom.xml"/>
+	<link rel="alternate" type="text/html" href="https://danymat.dev/index.html"/>
+
+	<updated>2025-01-02T19:00:00Z</updated>
+
+	<entry>
+		<title>Create your own TTP Framework</title>
+		<id>https://danymat.dev/blog/create-your-ttp.html</id>
+		<link rel="alternate" href="https://danymat.dev/blog/create-your-ttp.html"/>
+		<published>2025-01-02T19:00:00Z</published>
+		<updated>2025-01-02T19:00:00Z</updated>
+		<content type="html"><![CDATA[<section>
+				<p>When studying new cybersecurity content, it's essential to find effective ways to
+					retain information and easily access it when needed.</p>
+
+				<p>To address this, I created my
+					"Personal TTP Framework" on <a href="https://obsidian.md">Obsidian</a> during my preparation
+						for the CPTS (Certified Penetration Tester Specialist) certification, establishing a layered structure similar to the <a href="https://attack.mitre.org>">MITRE ATT&CK framework</a>.</p>
+
+					<p>The information is categorized into different layers: Tactics, Techniques, and Procedures.</p>
+				</section>
+
+				<section>
+					<h2>1. Tactics</h2>
+
+					<p>Tactics refer to a set of general goals during an attack. Mine are primarily based
+						on the <a href="https://attack.mitre.org/tactics/enterprise/">MITRE Enterprise tactics</a>, which include:
+
+						<ul>
+							<li> Infrastructure Preparation</li>
+							<li> Discovery</li>
+							<li> Execution</li>
+							<li> Defense Evasion</li>
+							<li> Credential Access</li>
+							<li> Privilege Escalation</li>
+							<li> Lateral Movement</li>
+							<li> Collection</li>
+							<li> Exfiltration</li>
+						</ul>
+
+							These layers remain relevant today.</p>
+					</section>
+
+					<section>
+						<h2>2. Techniques</h2>
+
+						<p>A technique is the "how" to achieve the related tactic. My techniques are ever expanding or re-grouped as I learn new material. Start by creating your first technique based on the content you are studying.</p>
+					</section>
+
+					<section>
+						<h2>3. Procedures</h2>
+
+						<p>Procedures are specific implementations of a related technique. The difference between Mitre framework and mine relies on the Procedures definition. On Mitre, here is what they say:</p>
+
+						<blockquote>
+							<p>"The two important aspects to note about procedures in ATT&CK are that it is how an adversary uses techniques and sub-techniques and that a procedure can span multiple techniques and sub-techniques."
+						</p>
+						<footer>MITRE ATT&CK: Design and Philosophy</footer>
+					</blockquote>
+
+					<p>On my end, I create one procedure for each specific workflow needed to perform my technique. The common denominator between Mitre's framework and mine is that "Procedures may also include use of specific tools in how they’re performed".</p>
+					<p>I now use this TTP framework daily (on HTB boxes and during internal assessments), and as I continue learning in the field, I expand my personal framework accordingly.</p>
+				</section>
+					]]></content>
+			</entry>
+		</feed>
