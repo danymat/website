@@ -31,6 +31,6 @@ date_format = "%Y-%m-%d"
 
 Hello World !
 
-I'm an offensive security engineering manager, currently working in _Dassault Systemes_ as a Cybersecurity Manager.
+I'm an offensive security engineer, currently working in _Dassault Systemes_ as a Cybersecurity Manager. I'm spending my time pentesting, building security tooling, creating processes, and preparing the future of offsec in my job.
 
 I have some weird focus on magic/planes/reading/gym/japanese tea too.
