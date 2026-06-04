@@ -1,7 +1,8 @@
 +++
 title = "Perform multiple pivot with ligolo-ng"
-description = ""
+description = "How to perform double pivot (or more) with ligolo-ng"
 date = 2026-06-04
+updated = 2026-06-04
 draft = false
 +++
 
