@@ -35,11 +35,12 @@ taxonomies = [{ name = "tags" }, { name = "categories" }]
 
 [markdown]
 render_emoji = false
-external_links_target_blank = false
+external_links_target_blank = true
 external_links_no_follow = true
 external_links_no_referrer = true
 smart_punctuation = false
 github_alerts = true
+
 
 [markdown.highlighting]
 style = "class"
