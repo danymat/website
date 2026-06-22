@@ -32,7 +32,8 @@ date_format = "%Y-%m-%d"
 Hello World !
 
 I'm an offsec engineer, currently working in _Dassault Systemes_ as a Cybersecurity Manager. I'm spending my time pentesting, building security tooling, creating processes, and preparing the future of offsec in my job.
-I'm [CPTS](https://profile.hackthebox.com/profile/019c5333-7f28-71ad-8e33-d8f3c621f972/certificate/HTBCERT-D1E45DF90F) certified.
+
+I'm [CPTS](https://profile.hackthebox.com/profile/019c5333-7f28-71ad-8e33-d8f3c621f972/certificate/HTBCERT-D1E45DF90F) and [OSEP](https://credentials.offsec.com/ad3cfb41-e5d0-4462-bd28-7961f5a55347#acc.FAd7b4XD) certified.
 
 I have some weird focus on magic/planes/reading/gym/japanese tea too.
 
