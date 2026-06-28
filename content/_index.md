@@ -11,7 +11,7 @@ footer = false
 name = "Daniel Mathiot"
 id = "danymat"
 bio = "Offensive Security"
-avatar = "img/logo.png" # .webp is preffered
+avatar = "img/logo.webp" # .webp is preffered
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/danymat" },
     { name = "Mastodon", icon = "mastodon", url = "https://infosec.exchange/@danymat", rel_me = true },
